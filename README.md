@@ -3,8 +3,9 @@
 <h3 align="center">Developer & programmer in the making, creating disastrous content🙃</h3>
 
 - 👦🏽 Currently Freelance **For You**
-- 👨🏽‍💻 My website (https://itsmanueh.github.io/)
+- 👨🏽‍💻 My website: (https://itsmanueh.github.io/)
 - 📧 E-Mail: **silverghost62@hotmail.com**
+- 💻 Check Out My Repositories: **(https://github.com/ItsManueh?tab=repositories)**
 
 ### Social Networks:</h3>
 <p align="left">
