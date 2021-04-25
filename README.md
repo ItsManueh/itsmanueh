@@ -14,4 +14,4 @@
 </p>
 
 ### 🎶 Spotify Music!
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=facinglife&cover_image=true&theme=novatorem)]
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=facinglife&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=facinglife&redirect=true)
