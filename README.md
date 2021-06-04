@@ -3,7 +3,7 @@
 <h3 align="center">Developer & programmer learning, creating disastrous content 🙃</h3>
 
 - 👦🏽 Currently Freelance **For You**
-- 👨🏽‍💻 My website: **(https://itsmanueh.github.io/)**
+- 👨🏽‍💻 My linktree website: **(https://itsmanueh.github.io/)**
 - 📧 E-Mail: **silverghost62@hotmail.com**
 - 💻 Check Out My Repositories: **(https://github.com/ItsManueh?tab=repositories)**
 
