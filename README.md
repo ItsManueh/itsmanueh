@@ -4,7 +4,6 @@
 
 - 👦🏽 Currently Freelance **For You**
 - 👨🏽‍💻 My linktree website: **(https://itsmanueh.github.io/)**
-- 📧 E-Mail: **silverghost62@hotmail.com**
 - 💻 Check Out My Repositories: **(https://github.com/ItsManueh?tab=repositories)**
 
 ### 📲 Social Networks:</h3>
