@@ -1,10 +1,4 @@
-<p align='center'>
-<a href="https://www.twitch.tv/ItsManueh_"><img height="70" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/twitch-512.png"></a>&nbsp;&nbsp;   
-<a href="https://twitter.com/IlloManueh_"><img height="70" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png"></a>&nbsp;&nbsp;
-<a href="https://instagram.com/itsmanueh"><img height="70" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-instagram-new-circle-256.png"></a>&nbsp;&nbsp;
-</p>
-
-### Hi! 👋
+### Hi there! 👋
 <h3 align="center">My Github Profile</h3>
 
 - 🔭 I’m currently "working" on videogames servers from @citizenfx and @PaperMC projects.
@@ -15,6 +9,13 @@
 
 - 💻 Check Out My Repositories: **(https://github.com/ItsManueh?tab=repositories)**
 
+
+### 📳 Social Networks:
+<p align='center'>
+<a href="https://www.twitch.tv/ItsManueh_"><img height="70" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/twitch-512.png"></a>&nbsp;&nbsp;   
+<a href="https://twitter.com/IlloManueh_"><img height="70" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png"></a>&nbsp;&nbsp;
+<a href="https://instagram.com/itsmanueh"><img height="70" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-instagram-new-circle-256.png"></a>&nbsp;&nbsp;
+</p>
 
 ### Used Tools
 
