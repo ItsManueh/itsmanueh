@@ -1,12 +1,11 @@
-### Hi! 👋
-
-### 📲 Social Networks:</h3>
-<p align="left">
-<a href="https://twitter.com/itsmanueh_" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/free-social-icons/67/twitter_circle_color-512.png" alt="itsmanueh_" height="64" width="64"/></a>
-<a href="https://dsc.bio/itsmanueh" target="blank"><img align="center" src="https://webstockreview.net/images/discord-icon-png.png" alt="Itsmanueh#4824" height="64" width="64"/></a>
+<p align='center'>
+<a href="https://www.twitch.tv/ItsManueh_"><img height="64" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/twitch-512.png"></a>&nbsp;&nbsp;   
+<a href="https://twitter.com/IlloManueh_"><img height="64" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png"></a>&nbsp;&nbsp;
+<a href="https://instagram.com/itsmanueh"><img height="64" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-instagram-new-circle-256.png"></a>&nbsp;&nbsp;
 </p>
 
-<h3 align="center">Learning development & programming</h3>
+### Hi! 👋
+<h3 align="center">My Github Profile</h3>
 
 - 🔭 I’m currently "working" on videogames servers from @citizenfx and @PaperMC projects.
 
@@ -15,6 +14,13 @@
 - 👨🏽‍💻 My linktree website: **(https://itsmanueh.github.io/)**
 
 - 💻 Check Out My Repositories: **(https://github.com/ItsManueh?tab=repositories)**
+
+## Important Tools
+
+   <p align="center">
+      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio.svg" />
+      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio_code.svg" />
+   </p>
 
 ### 🎶 Spotify Music!
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=facinglife&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=facinglife&redirect=true)
