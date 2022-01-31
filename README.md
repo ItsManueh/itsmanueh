@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently "working" on videogames servers from @citizenfx and @PaperMC projects.
 
-- 👦🏽 I’m currently learning Lua, Java & JavaScript and more
+- 👦🏽 I’m currently learning Lua, Java, HTML, CSS and more
 
 - 👨🏽‍💻 My linktree website: **(https://itsmanueh.github.io/)**
 
