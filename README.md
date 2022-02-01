@@ -5,9 +5,9 @@
 
 - 👦🏽 I’m currently learning Lua, Java, HTML, CSS and more
 
-- 👨🏽‍💻 My linktree website: **itsmanueh.github.io**
+- 👨🏽‍💻 My linktree website: **https://itsmanueh.github.io**
 
-- 💻 Check Out My Repositories: **github.com/ItsManueh?tab=repositories**
+- 💻 Check Out My Repositories: **https://https://github.com/ItsManueh?tab=repositories**
 
 
 ### 📳 Social Networks:
