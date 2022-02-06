@@ -1,7 +1,7 @@
 ### Hi there! 👋
 <h3 align="center">My Github Profile</h3>
 
-- 🔭 I’m currently "working" on videogames servers from @citizenfx and @PaperMC projects.
+- 🔭 I’m currently "working" on videogames servers from @citizenfx, @PaperMC and @PurpurMC projects.
 
 - 👦🏽 I’m currently learning Lua, Java, HTML, CSS and more
 
