@@ -1,7 +1,9 @@
 ### Hi there! 👋
 <h3 align="center">My Github Profile</h3>
 
-- 🔭 I’m currently "working" on videogames servers from @citizenfx, @PaperMC and @PurpurMC projects.
+My name is Manuel Sempere A.K.A ItsManueh, almost junior developer and content creator on @Twitch.
+
+- 🔭 I’m currently working freelance on videogames servers from @citizenfx, @PaperMC and @PurpurMC projects.
 
 - 👦🏽 I’m currently learning Lua, Java, HTML, CSS and more
 
@@ -22,6 +24,11 @@
 <div align="center">
         <a href="https://www.paypal.com/donate/?hosted_button_id=STKUZCNDTBD5N"><img width="45%" src="https://github-readme-stats.vercel.app/api?username=itsmanueh&layout=compact&theme=react&hide_border=true&show_icons=true"/></a>
  </div>
+ 
+### 👨🏻‍💻 Programming language
+<p align="center">
+      <img src="https://github.com/YisusOnDev/YisusOnDev/blob/8659315da5ae39e2635e7d2c1e2a6317163e3c72/lua.svg"/>
+</a>&nbsp;&nbsp;
 
 ### 💾 Used Tools
 
