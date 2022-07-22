@@ -28,8 +28,6 @@
 <p align="center">
       <a href="https://code.visualstudio.com"><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio_code.svg"/></a>&nbsp;&nbsp;
       <a href="https://visualstudio.microsoft.com"><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio.svg"/></a>&nbsp;&nbsp;
-      <a href="https://www.vmware.com"><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/vmware.svg"/></a>&nbsp;&nbsp;
-      <a href="https://cloud.google.com"><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/google_cloud_platform.svg"/></a>&nbsp;&nbsp;
    </p>
 
 
