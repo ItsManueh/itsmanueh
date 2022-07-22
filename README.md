@@ -42,6 +42,7 @@ My name is Manuel Sempere A.K.A ItsManueh, almost junior developer and content c
 <p align="center">
       <a href=""><img src="https://github.com/YisusOnDev/YisusOnDev/blob/main/typescript.svg"/>
 </a>&nbsp;&nbsp;
+    </p>
 
 ### 💾 Used Tools
 
