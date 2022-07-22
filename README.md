@@ -28,19 +28,19 @@ My name is Manuel Sempere A.K.A ItsManueh, almost junior developer and content c
 ### 👨🏻‍💻 Programming language
 
 <p align="center">
-      <img src="https://github.com/YisusOnDev/YisusOnDev/blob/8659315da5ae39e2635e7d2c1e2a6317163e3c72/lua.svg"/>
+      <a href=""><a href=""><a href=""><a href=""><img src="https://github.com/YisusOnDev/YisusOnDev/blob/8659315da5ae39e2635e7d2c1e2a6317163e3c72/lua.svg"/>
 </a>&nbsp;&nbsp;
 <p align="center">
-      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg"/>
+      <a href=""><a href=""><a href=""><a href=""><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg"/>
 </a>&nbsp;&nbsp;
 <p align="center">
-      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/css3.svg"/>
+      <a href=""><a href=""><a href=""><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/css3.svg"/>
 </a>&nbsp;&nbsp;
 <p align="center">
-      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/js.svg"/>
+      <a href=""><a href=""><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/js.svg"/>
 </a>&nbsp;&nbsp;
 <p align="center">
-      <img src="https://github.com/YisusOnDev/YisusOnDev/blob/main/typescript.svg"/>
+      <a href=""><img src="https://github.com/YisusOnDev/YisusOnDev/blob/main/typescript.svg"/>
 </a>&nbsp;&nbsp;
 
 ### 💾 Used Tools
